@@ -1,7 +1,7 @@
 ### Projeto_01_Bug
 
 
-This stage I learning
+In this project i learning
 
 - HTML basics 
 - CSS basics
